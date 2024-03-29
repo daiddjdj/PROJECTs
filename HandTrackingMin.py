@@ -90,7 +90,7 @@ class HandDectector():
                         if draw:
                             cv2.circle(img, (cx, cy), 15, (255, 0, 255), cv2.FILLED)
         return lmList
-
+# srinivas pro coder
 def main():
     pTime = 0
     cTime = 0
